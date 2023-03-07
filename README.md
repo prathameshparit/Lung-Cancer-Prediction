@@ -12,6 +12,11 @@ We also designed and developed a deep learning model for predicting lung cancer.
 
 Basically, This project aims to develop a feature extraction model for predicting lung cancer and to compare it with other state-of-the-art models. We also designed and developed a deep learning model for predicting lung cancer and implemented an automatic notification system for early detection.
 
+## Demo
+
+https://user-images.githubusercontent.com/63944541/223366523-27406f06-2c3f-4778-8900-088afb26f780.mp4
+
+
 ## Dataset:
 
 Images are not in dcm format, the images are in jpg or png to fit the model
